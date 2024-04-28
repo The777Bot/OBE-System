@@ -6,6 +6,7 @@ Learning outcomes are first defined at program level (program learning outcomes)
 
 Evaluations (assignments, exams, etc) are also designed based on learning outcomes. Each question/problem needs to test a CLO. Normally it is required that each CLO should be tested by at least two different questions or problems.
 ### **ScreenShot**
-![OBE-System](screenshotOBE.png)
-![OBE-System](screenshotOBE1.png)
 
+![OBE-System](screenshotOBE1.png)
+### **Screenshot-2**
+![OBE-System](screenshotOBE.png)
