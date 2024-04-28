@@ -5,6 +5,7 @@ OBE is a way of designing and organizing curriculum. OBE also guides about testi
 Learning outcomes are first defined at program level (program learning outcomes), and then for each course further low-level outcomes are proposed (course learning outcomes). Each CLO should satisfy some PLO. A PLO may have multiple CLO's.
 
 Evaluations (assignments, exams, etc) are also designed based on learning outcomes. Each question/problem needs to test a CLO. Normally it is required that each CLO should be tested by at least two different questions or problems.
+### **ScreenShot**
+![screenshot](OBE-System/Screenshot(87).png)
 
-### ***ScreenShot***
-[s.s](OBE-System/Screenshot(87).png)
+
