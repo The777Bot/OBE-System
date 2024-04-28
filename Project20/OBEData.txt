@@ -1,0 +1,8 @@
+Course: Computer Science
+PLOs:
+Critical Thinking
+Problem Solving
+CLOs:
+Algorithm Design
+Data Structures
+
